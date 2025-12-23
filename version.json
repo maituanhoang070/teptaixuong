@@ -2,6 +2,6 @@
     "version": "v3.6",
     "release_date": "2025-12-23",
     "changelog": "- Thêm tính năng tự động cắt Banner rác.\n- Sửa lỗi nút Dừng.\n- Tối ưu hóa tốc độ render.",
-    "download_url": "https://link-tai-file-update-cua-ban.com/update_v3.6.zip",
+    "download_url": "https://github.com/mthrecapstudio/MTHRecapStudiodl/releases/download/MTH_Recap_Studio_Setup_v3.6/update_v3.6.zip",
     "force_update": false
 }
