@@ -1,0 +1,7 @@
+{
+    "version": "v3.6",
+    "release_date": "2025-02-20",
+    "changelog": "- Thêm tính năng tự động cắt Banner rác.\n- Sửa lỗi nút Dừng.\n- Tối ưu hóa tốc độ render.",
+    "download_url": "https://link-tai-file-update-cua-ban.com/update_v3.6.zip",
+    "force_update": false
+}
